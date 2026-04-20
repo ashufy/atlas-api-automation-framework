@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Reports (if auto-generated)
+reports/
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive configs
+configs/*.yaml
+configs/*.json
+
+# Test artifacts
+pytest_cache/
+.coverage
+
+# Custom (based on your structure)
+API Testing & Lifecycle Automation Suite.txt
